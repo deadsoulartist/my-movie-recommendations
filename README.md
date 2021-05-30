@@ -1,2 +1,2 @@
 # my-movie-recommendations
-Created with CodeSandbox
+A list of movies i recommend, built with React 
